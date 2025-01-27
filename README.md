@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Im a Software Engineering Student at the University of Ottawa. <br>Message me on Linkedin if you want to collaborate on a cool project.<br><br>Currently learning about machine learning models and database management!<br>
+Hi! Im a Software Engineering Student at the University of Ottawa.<br> <br>Message me on Linkedin if you want to collaborate on a cool project.<br><br>Currently learning about machine learning models and database management!<br>
 
 
 ## 🌐 Socials:
